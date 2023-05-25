@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+background-color: rgb(182, 37, 37);
+}
+
+
+
+.navegador{
+    display: flex;
+    justify-content: space-between;
+    background-color: blue;
+}
+
+
+.item{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    list-style: none;
+}
+.titulo{
+   text-align:center;
+   font-size:medium
+    font-family: 'Lato', sans-serif;
+}
